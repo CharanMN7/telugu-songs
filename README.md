@@ -1,32 +1,31 @@
-# Project Name
+# Telugu Songs Webite
 
-A paragraph describing about this project. Maybe include a [link](https://bio.link/charanmanikantanalla) to something releveant.
+I created this website for my mom because she doesn't like searching for her favorite music on youtube. She can find her favorite music on youtube with just a few clicks.
+
+[This site](https://charanmn7.github.io/telugu-songs/) takes you to some really OG telugu music.
 
 ## Table Of Contents 📖
 
-- [Project Name](#project-name)
+- [Telugu Songs Webite](#telugu-songs-webite)
   - [Table Of Contents 📖](#table-of-contents-)
   - [Overview 🎯](#overview-)
     - [Screenshots 🖼️](#screenshots-️)
     - [Links 📌](#links-)
-  - [Your Process 📝](#your-process-)
+  - [My Process 📝](#my-process-)
     - [Built with 🛠️](#built-with-️)
-    - [What you Learned 🗒️](#what-you-learned-️)
-  - [Author 👨🏻‍💻](#author-)
+    - [What I Learned 🗒️](#what-i-learned-️)
+  - [Thanks For Visisting! 👨🏻‍💻](#thanks-for-visisting-)
 
 ## Overview 🎯
 
-Write an overview of the project. What it does, maybe the reason for making this, or the inspiration behind this.
+This is the first website I created in my mother tongue, Telugu (తెలుగు). I creatd this website so that my mom would be able to play her favorite songs on youtube, with just a few clicks.
+
+Growing up, I listened their music and I've listened to the way they categorize and talk about music. With that knowledge, I've organized the music into 4 major categories, each with several options for her to choose from. First, she has to choose one of the four categories, after that she has to choose from all of the available options. Each option in a category leads her to a YouTube playlist I created for each of those options and starts playing music automatically (atleast after an ad or two).
 
 ### Screenshots 🖼️
 
-Insert Some scereenshots of your project in Action. Here is am example, if you're making a website or a webpage, insert the desktop version and the mobile version of how it looks.
-
-![](meme.png)
-This meme doesn't belong to me.
-
-![](splice-article-cover.jpg)
-A cover image I've created for one of my [articles](https://charan-blog.netlify.app/)
+Here's a screenshot: 
+![](images/screenshots/preview.jpg)
 
 ### Links 📌
 
@@ -34,35 +33,33 @@ Insert the URLs to your project here, so that the visitor can go try it out.
 
 For example:
 
-- Live Site URL: [https://www.linkedin.com/in/charan-manikanta/](https://www.linkedin.com/in/charan-manikanta/)
-- Project Repo: [https://github.com/CharanMN7/To-Do-App](https://github.com/CharanMN7/To-Do-App)
+- Live Site URL: [https://charanmn7.github.io/telugu-songs/](https://charanmn7.github.io/telugu-songs/)
+- Project Repo: [https://github.com/CharanMN7/telugu-songs/](https://github.com/CharanMN7/telugu-songs/)
 
-## Your Process 📝
+## My Process 📝
 
-Give a clear explanation of what you did to build the project, how you solved certain problems. Summarize your experience of building the project.
+My process was very simple, I just setup my project all the boilerplate code and wrote the code to create one card, wrote its CSS too. The home page has 4 categories that are to be presented as 4 cards, I used the same code for all the 4 cards. And then I used `flex-box` to align the cards.
+
+I added a little footer at the end of the page, just so my mom would know that I created it 😅 (Or maybe I'm just too obsessed with footers). And finally, I used the same code for the rest of the pages.
 
 ### Built with 🛠️
 
-Use this section to list the lanuages, technologies, frameworks, libraries you used to build the project. For example, I created this template using the following (language(s), technologies, etc.):
+Here's what I used to used to build this site;
 
-- Markdown
+- CSS (Flexbox, to be specific)
+- Canva (To make the images collages)
+- YouTube (To make the playlists!😅)
 
-### What you Learned 🗒️
+### What I Learned 🗒️
 
-Write down your takeaways from building this project. Write about what you've learned from the challenges this project posed at you. This is a great way understand yourself better and I personally believe that writing this part will help you retain what you've learnt along the way.
+This little project taught me that you can find a way to simplify a whole bunch of things through code. And, this helped me understand the time taken by each of the differnet tasks I did to create the result I expected.
 
-## Author 👨🏻‍💻
+## Thanks For Visisting! 👨🏻‍💻
 
-Last but not least, You!
+Check out my other projects:
 
-This section is all about you! Use this space to put a small message for the reader/visitor and maybe a load of links to your other projects, social media, blogs and everything else.
-
-Here's how I'd go:
-
-Thank you for visiting! if you read this far, you might be interested in my other projects:
-
-- [The To Do App](https://github.com/CharanMN7/To-Do-App)
-- [QR code component](https://github.com/CharanMN7/QR-code-component)
+- [Personal Portfolio Page](https://github.com/CharanMN7/Personal-Portfolio-Page/)
+- [Hogwartz Product Landing Page](https://github.com/CharanMN7/Hogwartz-Product-Landing-Page)
 - [Green Screen Background Image Editor](https://codepen.io/charan_/pen/OJEWzRX)
 - [Simple Paint Canvas](https://codepen.io/charan_/pen/GRGrNyx)
 - [Turn a colored image to grey](https://codepen.io/charan_/pen/GRGrEpP)
@@ -70,7 +67,7 @@ Thank you for visiting! if you read this far, you might be interested in my othe
 
 Let's connect:
 
-- [LinkedIn](https://www.linkedin.com/in/charan-manikanta/)
+- [LinkedIn](https://charanmn7.github.io/telugu-songs/)
 - [Twitter](https://twitter.com/CharanMN7)
 - [My Blog](https://charan-blog.netlify.app/)
 - [Hashnode](https://charanmn7.hashnode.dev/)
